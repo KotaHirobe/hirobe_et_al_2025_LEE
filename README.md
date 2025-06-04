@@ -18,17 +18,19 @@ Contents:
 Variable Name Correspondence Table
 This table summarizes the correspondence between terms used in the manuscript and variable names used in the dataset or R code.
 
-Manuscript Term	Data/Code Variable Name
-Weight of ground-dwelling insects	weight_insect
-Number of families of ground-dwelling insects	insect_family
-Percent cover of ferns	fern_cover
-Percent cover of dwarf bamboo	bamboo_cover
-Percent cover of bare ground	bareground_cover
-Percent cover of herbaceous plants	herb_cover
-Maximum vegetation height	veg_height
-Volume indicator of logjams	logjam_volume
-Presence or absence of rodents	rodent
-Area category (legacy vs. salvaged)	area
-Number of animals photographed	count
-Number of camera operating days	day
-Species (red fox, raccoon, raccoon dog)	species (if applicable)
+| Manuscript Term                               | Data/Code Variable Name   |
+| --------------------------------------------- | ------------------------- |
+| Weight of ground-dwelling insects             | `weight_insect`           |
+| Number of  ground-dwelling insect　families   | `family_insect`           |
+| Percent cover of ferns                        | `ferns`                   |
+| Percent cover of dwarf bamboo                 | `dwarf_bamboo`            |
+| Percent cover of bare ground                  | `bare`                    |
+| Percent cover of herbaceous plants            | `herbaceous_plants`       |
+| Maximum vegetation height                     | `hight`                   |
+| Volume indicator of logjams                   | `hpa`                     |
+| Presence or absence of rodents                | `mouse_p_a`               |
+| Area category (unsalvaged vs. salvaged)       | `area`                    |
+| Number of animals photographed                | `count`                   |
+| Number of camera operating days               | `day`                     |
+
+
