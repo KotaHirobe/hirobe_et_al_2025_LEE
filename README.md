@@ -1,7 +1,7 @@
 # hirobe_et_al_2025_LEE
 R code and data for statistical analysis for the following paper:
 
-Hirobe, K. et al.
+Hirobe, K., Morimoto, J., Agetsuma, N. et al. Salvage logging after landslide changes habitat use of medium-sized mammals. Landscape Ecol Eng 22, 127–134 (2026). https://doi.org/10.1007/s11355-025-00691-4
 
 Contents:
 
